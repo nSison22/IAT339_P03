@@ -1,0 +1,41 @@
+
+/* Misellenious */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+
+.newSection{
+    padding-top: 3rem;
+    height: 33.333vh;
+    width: 100%;
+}
+
+
+
+/* Text-Elements */
+
+h1{
+font-family: degular-display, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 5rem;
+
+margin: 0;
+}
+
+h2,h3{
+font-family: neue-haas-grotesk-display, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 1rem;
+
+margin: 0;
+
+}
+
+
+/* Interactive-Elements */

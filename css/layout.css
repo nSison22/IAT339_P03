@@ -1,0 +1,15 @@
+/* NAVBAR */
+
+#container-navBar{
+    display: flex;
+    width: 20%;
+    flex-direction: row;
+    flex-wrap: wrap;    
+
+    margin-left: 5%;
+}
+
+.block-navBar{
+    width: 100%;
+    padding-top: 2rem;
+}

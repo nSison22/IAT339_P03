@@ -6,6 +6,12 @@ body{
     padding: 0;
 }
 
+.fitContainer{
+    height: 50vh;
+    width: 100%;
+}
+
+
 /* Navbar */
 
 .newSection{
@@ -13,6 +19,7 @@ body{
     height: 33.333vh;
     width: 100%;
 }
+
 
 
 

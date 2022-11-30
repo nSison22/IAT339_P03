@@ -31,7 +31,6 @@
     width: 76%;
     margin-right: 2%;
     margin-left: 2%;
-
 }
 
 .block-new-row{
@@ -48,4 +47,11 @@ width: 50%;
 .block-ProjectImage{
 width: 50%;
 
+}
+
+/* Project 1 */
+
+
+.block-bannerImage{
+width: 100%;
 }
